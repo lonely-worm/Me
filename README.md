@@ -1,53 +1,80 @@
+<div align="center">
+
 # Azmy Hanif Abdurrahman
 
-**Cybersecurity Specialist · Founder & Technical Lead at Handev Code**  
-Jakarta, Indonesia · [Personal Portfolio](https://azmyhanifabdurrahman.vercel.app/)
+### Cybersecurity Specialist · Software Engineer
+
+Building safer digital experiences through security, engineering, and education.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://azmyhanifabdurrahman.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-lonely--worm-181717?style=for-the-badge&logo=github)](https://github.com/lonely-worm)
+
+📍 Indonesia · Founder & Technical Lead at **Handev Code**
+
+</div>
+
+---
 
 ## About
 
-I’m a technology entrepreneur and cybersecurity specialist working at the intersection of offensive security, software engineering, developer education, and applied research.
+I’m a technology entrepreneur and cybersecurity specialist interested in how secure systems are designed, built, tested, and improved.
 
-As the founder of **Handev Code**, I focus on bridging the gap between academic knowledge and real-world security challenges—helping developers understand systems at a fundamental level and build with security in mind.
+Through **Handev Code**, I work to make technical knowledge more practical and accessible—especially in cybersecurity and software development. I enjoy exploring security challenges, building useful tools, and turning complex technical topics into clear learning experiences.
 
-## Focus Areas
+## What I Work On
 
-- **Cybersecurity:** Vulnerability assessment, penetration testing, threat modeling, web security, and risk analysis.
-- **Software Engineering:** Secure application architecture, full-cycle development, Python automation, and security-first practices.
-- **Cloud & DevSecOps:** AWS architecture, cloud security hardening, CI/CD security, and infrastructure protection.
-- **AI & Data Science:** Generative AI, machine learning, anomaly detection, and security analytics.
-- **Developer Education:** Curriculum design, technical workshops, mentorship, and security-aware engineering.
-- **Research:** Applied research at the intersection of artificial intelligence and cybersecurity.
+| Area | Focus |
+| --- | --- |
+| **Cybersecurity** | Vulnerability assessment, web security, penetration testing in authorized environments, threat modeling |
+| **Software Engineering** | Application development, secure coding, APIs, Python automation |
+| **Cloud & DevSecOps** | Linux, cloud security concepts, CI/CD security, infrastructure hardening |
+| **AI & Data** | Generative AI, machine learning, data science, security analytics |
+| **Education & Research** | Technical writing, workshops, developer learning, applied research |
 
 ## Experience
 
-**Founder & Technical Lead — Handev Code**  
-*2023 – Present*  
-Building a developer education platform focused on security-aware engineering, curriculum development, workshops, and technical mentorship.
+### Founder & Technical Lead — Handev Code
+*2023 – Present*
 
-**Independent Cybersecurity Consultant**  
-*2022 – Present*  
-Focus areas include penetration testing, vulnerability assessment, risk analysis, and cloud security hardening.
+Developing a learning platform and technical initiatives focused on developer education, cybersecurity awareness, curriculum design, and mentorship.
 
-**Computer Science & Cybersecurity Studies — SiberMu / University of Maryland**  
-*2021 – 2023*  
-Academic background and research interests spanning computer science, security systems, and AI-driven threat detection.
+### Independent Cybersecurity Consultant
+*2022 – Present*
 
-**Developer Program Member — NVIDIA & Google**  
-*2020 – 2022*  
-Participation in developer programs and exploration of AI tooling, generative AI applications, and cloud-based development.
+Working around security assessment, vulnerability analysis, risk awareness, and security improvement.
 
-## Skills & Technologies
+### Computer Science & Cybersecurity Studies — SiberMu / University of Maryland
+*2021 – 2023*
 
-- **Security:** Ethical Hacking · Penetration Testing · OWASP · Vulnerability Assessment · Threat Modeling
-- **Development:** Python · Software Engineering · Automation · REST APIs · Secure Coding
-- **Infrastructure:** Linux · AWS · Cloud Security · DevSecOps · CI/CD
-- **AI & Data:** Generative AI · Machine Learning · Data Science · Security Analytics
+Areas of interest include computer science, security systems, and AI-assisted threat detection.
+
+### Developer Program Member — NVIDIA & Google
+*2020 – 2022*
+
+Explored developer tools, AI technologies, and cloud-based development through developer programs.
+
+## Technologies & Topics
+
+**Security:** OWASP · Vulnerability Assessment · Threat Modeling · Web Security  
+**Development:** Python · REST APIs · Automation · Secure Coding  
+**Systems:** Linux · AWS · Cloud Security · DevSecOps · CI/CD  
+**AI & Data:** Generative AI · Machine Learning · Data Science
+
+## Current Principles
+
+- Build with security in mind from the start.
+- Learn by testing ideas and documenting what works.
+- Make technical knowledge easier to understand and apply.
+- Practice security responsibly and only with proper authorization.
 
 ## Connect
 
 - **Website:** [azmyhanifabdurrahman.vercel.app](https://azmyhanifabdurrahman.vercel.app/)
 - **GitHub:** [@lonely-worm](https://github.com/lonely-worm)
+- **Organization / Project:** Handev Code
 
 ---
 
-*Focused on building secure systems, advancing practical security knowledge, and making cybersecurity more accessible to developers.*
+<div align="center">
+  <sub>Security-minded engineering. Practical learning. Continuous improvement.</sub>
+</div>
